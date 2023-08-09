@@ -6,6 +6,6 @@ export class AuthService {
     return 'hola';
   }
   signin(): { msg: string } {
-    return { msg: 'hello' };
+    return { msg: 'hey' };
   }
 }
